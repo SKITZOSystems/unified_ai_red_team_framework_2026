@@ -1,5 +1,5 @@
 # Unified AI Red Team Framework (2026 Practitioner Edition)
-## Presented by SkitzOS.Studio
+## Presented by [SkitzOS Studio](https://www.facebook.com/profile.php?id=61588815636316)
 
 > **"AI systems are untrusted executors operating in probabilistic, stateful environments. If you aren't hardening the boundaries, you're already compromised."**
 
@@ -37,6 +37,6 @@ We evaluate every system through three critical intersections:
 ### 🤝 Contributions & License
 This framework is released under the **CC-BY-SA 4.0** license. We welcome contributions from the Red Team community. 
 
-**Maintained by:** [SkitzOS.Studio](https://facebook.com/SkitzOS.Studio)
+**Maintained by:** [SkitzOS Studio](https://www.facebook.com/profile.php?id=61588815636316)
 
 License: This project is licensed under the CC BY-SA 4.0 License - see the LICENSE file for details.
